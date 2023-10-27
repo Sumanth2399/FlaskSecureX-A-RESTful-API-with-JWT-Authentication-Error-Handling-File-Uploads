@@ -1,7 +1,7 @@
 # Web back-end
 
 Team Members :
-Sumanth Mittapally
+Sumanth Mittapally,
 Rohit Chowdary Yadla 
 
 # Flask Application Setup and Run Guide
