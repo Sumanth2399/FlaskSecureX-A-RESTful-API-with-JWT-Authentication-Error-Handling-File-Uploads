@@ -1,0 +1,33 @@
+Packages used 
+
+1. Flask
+ Flask is a Python web framework that is used to create web applications. It provides tools and libraries for building web applications, including handling routes, requests, responses, and more. In this code, Flask is imported to create a Flask web application.
+2. SQLAlchemy:
+ SQLAlchemy is a popular Object-Relational Mapping (ORM) library for Python. It provides a high-level, SQL expression language for interacting with relational databases and abstracts many of the database-specific details. In this code, SQLAlchemy is used for working with a MySQL database.
+ 
+3. sqlalchemy.text:
+ The text function is imported from SQLAlchemy. It is used to create a SQL expression or query as a text object. This allows you to execute raw SQL queries when necessary.
+ 
+4. jsonify:
+ jsonify is a function from Flask that is used to convert a Python dictionary or other data structures into a JSON response, which can be sent as an HTTP response.
+2. abort:
+ abort is a function from Flask used to generate HTTP error responses with specific status codes.
+3. request:
+ request is an object provided by Flask that represents the incoming HTTP request, allowing you to access request data, such as form data, query parameters, and more.
+4. werkzeug.exceptions.NotFound:
+ NotFound is an exception class provided by the Werkzeug library, which Flask is built upon. It is used for generating a 404 (Not Found) error response.
+5. Flask JWT Extended (flask_jwt_extended):
+ flask_jwt_extended is a Flask extension that simplifies JSON Web Token (JWT) management for authentication and authorization in web applications.
+6. JWTManager:
+ JWTManager is a class provided by Flask JWT Extended for configuring and managing JWT settings.
+7. create_access_token:
+ create_access_token is a function from Flask JWT Extended used to create a new JWT access token.
+8. jwt_required:
+ jwt_required is a decorator provided by Flask JWT Extended. It is used to protect routes by requiring a valid JWT token for access.
+9. get_jwt_identity:
+ get_jwt_identity is a function from Flask JWT Extended used to retrieve the identity (in this case, the username) from a valid JWT token.
+10. generate_password_hash:
+ generate_password_hash is a function from Werkzeug, a library used by Flask. It is used to securely hash passwords before storing them.
+11. check_password_hash:
+ check_password_hash is a function from Werkzeug used to check whether a password matches a previously hashed password.
+
