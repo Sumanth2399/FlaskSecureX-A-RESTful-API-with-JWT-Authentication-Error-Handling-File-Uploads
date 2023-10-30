@@ -93,5 +93,3 @@ Application Usage
 •	Customize the application as needed, and expand it to serve more complex data or functionality.
 
 
-
-![image](https://github.com/Sumanth2399/Webbackend/assets/92877261/ebf325c5-d5b4-4b69-94f0-129a624c207c)
