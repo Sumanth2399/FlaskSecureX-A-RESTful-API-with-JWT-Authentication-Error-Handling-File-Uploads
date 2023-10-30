@@ -1,14 +1,13 @@
 # Building a RESTful API with Flask - Error Handling, Authentication,and File Handling with Public and Admin Routes
 
 
-Team Members :
-Sumanth Mittapally,
-Rohit Chowdary Yadla 
+Project Team Members :
+Sumanth Mittapally(CWID : 885157511),
+Rohit Chowdary Yadla (CWID : 885146852)
 
-# Flask Application Setup and Run Guide
+# Project Description 
 
-This README provides instructions on how to set up and run the application. Flask is a micro web framework written in Python
-
+This project is focused on developing a feature-rich RESTful API using the Flask framework. Key features include comprehensive error handling, robust JWT (JSON Web Token) authentication for secure user access, and secure file handling with validations on file types and sizes. It serves as a Python based template for creating Flask APIs with these essential features and includes a detailed readme for easy setup and deployment, making it a valuable resource for web and mobile application development.
 ## Prerequisites
 
 Before you begin, ensure that you have the following prerequisites:
