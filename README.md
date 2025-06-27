@@ -1,9 +1,6 @@
 # Building a RESTful API with Flask - Error Handling, Authentication,and File Handling with Public and Admin Routes
 
 
-Project Team Members :
-Sumanth Mittapally(CWID : 885157511),
-Rohit Chowdary Yadla (CWID : 885146852)
 
 # Project Description 
 
